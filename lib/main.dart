@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       title: 'Cinema Kita', // Judul aplikasi Anda
       
       theme: ThemeData(
-        // Anda bisa atur tema utama di siniii
+        // Ini buat conflict
         primarySwatch: Colors.indigo, // Contoh ganti tema
         visualDensity: VisualDensity.adaptivePlatformDensity,
         // Atur warna latar belakang default scaffold

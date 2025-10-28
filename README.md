@@ -1,13 +1,13 @@
-# 🎬 **Cinema Webs**
+# 🎵 **MyMusic**
 
-> “Temukan film favoritmu, tonton trailer-nya, dan nikmati pengalaman sinematik langsung dari layar!” 🍿  
+> “Putar, temukan, dan rasakan ritme dalam setiap nada.” 🎶  
 
-Cinema Webs adalah aplikasi web modern yang memungkinkan pengguna untuk **menelusuri, mencari, dan melihat informasi detail film** secara interaktif.  
-Aplikasi ini **terintegrasi langsung dengan API The Movie Database (TMDB)**, sehingga seluruh data film yang tampil selalu **up-to-date dan akurat**.  
+**MyMusic** adalah aplikasi web modern yang memungkinkan pengguna untuk **menelusuri, memutar, dan menemukan lagu favorit mereka secara real-time**.  
+Aplikasi ini terintegrasi dengan **Spotify Web API** dan sumber musik lain yang legal, memberikan pengalaman streaming musik yang **interaktif, cepat, dan personal**.
 
-Proyek ini dikembangkan sebagai implementasi pembelajaran **Web Development dan API Integration**, dengan tampilan yang responsif, interaktif, dan user-friendly.
-
+Didesain dengan antarmuka minimalis namun elegan, **MyMusic** menghadirkan nuansa seperti platform profesional layaknya Spotify dan Apple Music
 ---
+
 👥 Tim Pengembang — CINEMA WEB TEAM
 
 | No | Nama Lengkap             | NIM         |
@@ -26,26 +26,24 @@ Proyek ini dikembangkan sebagai implementasi pembelajaran **Web Development dan 
 |-----------|------------|
 | Frontend | React.js, Tailwind CSS |
 | Backend | Node.js, Express.js |
-| API | The Movie Database (TMDB) API |
+| API | Spotify Web API |
 | Tools | Axios, Vite, GitHub, Vercel |
 | Version Control | Git & GitHub |
 
 ---
 
 ## 🚀 **Fitur Unggulan**
-✨ **1. Pencarian Film Real-Time** — Cari film berdasarkan judul dan genre menggunakan API TMDB.  
-🎞️ **2. Detail Film Interaktif** — Tampilkan sinopsis, rating, genre, dan trailer langsung dari YouTube.  
-❤️ **3. Favorit Film** — Simpan daftar film favorit agar mudah diakses kembali.  
-🌙 **4. Dark/Light Mode** — Ganti tampilan sesuai preferensi pengguna.  
-📱 **5. Responsive Design** — Nyaman digunakan di desktop, tablet, maupun smartphone.  
-🧩 **6. API Integration** — Semua data (poster, rating, trailer) diambil langsung dari TMDB API dengan autentikasi aman.
+🎧 **1. Pemutar Musik Online** — Dengarkan lagu dengan streaming langsung dan kontrol penuh (play, pause, next, repeat).  
+🔍 **2. Pencarian Real-Time** — Temukan lagu, artis, atau album favorit dengan integrasi langsung ke Spotify API.  
+💾 **3. Playlist Pribadi** — Simpan dan atur daftar lagu favorit sesuai mood kamu.  
+🌙 **4. Dark/Light Mode** — Sesuaikan tampilan aplikasi dengan preferensi pengguna.  
+📱 **5. Responsive Design** — Nyaman digunakan di semua perangkat, dari desktop hingga smartphone.  
+⚡ **6. API Integration** — Seluruh data lagu, artis, dan album diambil real-time menggunakan Spotify API dengan autentikasi aman (OAuth 2.0).
 
 ---
 
 ## 🔗 **Integrasi API**
-Cinema Webs memanfaatkan **The Movie Database (TMDB) API** untuk mengambil data film, trailer, dan rating.  
-Integrasi dilakukan menggunakan **Axios** melalui endpoint
+MyMusic terhubung dengan **Spotify Web API**, yang menyediakan jutaan database lagu, artis, dan album.  
+Proses autentikasi dilakukan menggunakan **OAuth 2.0** agar pengguna bisa login menggunakan akun Spotify mereka.
 
-
-
-
+Contoh endpoint yang digunakan:

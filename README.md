@@ -16,7 +16,8 @@ Proyek ini dikembangkan sebagai implementasi pembelajaran **Web Development dan 
 | 2. | Tiara Zahrofi Ifadhah    | 24111814049 |
 | 3. | Tora Rizal Pratama       | 24111814059 |
 | 4. | Aurora Ilmannafia        | 24111814069 |
-| 5. | Farid Ade Novian         | 24111814140 |
+| 5. | Kirana Shofa Dzakiyyah   | 24111814104 |
+| 6. | Farid Ade Novian         | 24111814140 |
 
 
 
